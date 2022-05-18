@@ -1,4 +1,4 @@
-from DNAToolkit import *
+from DNA_toolkit.DNAToolkit import *
 import random
 
 # generating random DNA string
